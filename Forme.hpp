@@ -1,0 +1,4 @@
+class Forme {
+public:	
+Forme();
+};
