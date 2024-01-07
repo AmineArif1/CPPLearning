@@ -1,4 +1,5 @@
 #include "Forme.hpp"
 class Cercle : public Forme {
-Cercle();
+	public:
+		Cercle();
 };

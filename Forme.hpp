@@ -1,4 +1,4 @@
 class Forme {
 public:	
-Forme();
+	Forme();
 };
