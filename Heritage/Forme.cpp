@@ -6,3 +6,25 @@ std::cout << "Constructeur de Forme" << std::endl;
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

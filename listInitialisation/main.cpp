@@ -3,7 +3,7 @@
 #include <sstream>
 int main()
 {
-    Point p1(1, 2);
+    const Point p1(1, 2);
     Point p2{};
     Point* p3 = new Point(1.5, 2.5);
     std::cout << p3->getX() << std::endl;
